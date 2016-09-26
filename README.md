@@ -1,3 +1,7 @@
+> “Let's Start. ”
+
+Android Button点击事件以及响应的四种方式,下面我们分别介绍一下四种方式的使用。
+
 ## First 匿名内部类
 
 button1.setOnClickListener(new Button.OnClickListener() {<br/>
